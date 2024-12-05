@@ -1,2 +1,2 @@
 # Azure
-Note
+Note for Preparing Azure Certificate
